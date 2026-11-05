@@ -1,0 +1,17 @@
+# Angular
+**/node_modules/
+**/.angular/
+**/dist/
+
+# Spring Boot / Gradle
+**/.gradle/
+**/build/
+**/bin/
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
